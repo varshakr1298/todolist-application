@@ -4,9 +4,10 @@ import { Component } from '@angular/core';
   selector: 'my-app',
   template: `
   <div class="header">
-    <h1 class="app-title">
+  <img width=10% src="https://i.gifer.com/Iknm.gif">
+    <span class="app-title">
       Welcome to {{ title }}!
-    </h1>
+    </span>
   </div>
     <app-list-manager></app-list-manager>
   `,
