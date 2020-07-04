@@ -13,5 +13,5 @@ import { Component } from '@angular/core';
   styleUrls: [ './app.component.css' ]
 })
 export class AppComponent  {
-  title = 'My To Do List APP';
+  title = 'My To-Do List Application';
 }

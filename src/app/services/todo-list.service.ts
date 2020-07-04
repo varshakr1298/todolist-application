@@ -4,9 +4,9 @@ import { StorageService } from './storage.service';
 const todoListStorageKey = 'Todo_List';
 
 const defaultTodoList = [
-  {title: 'install NodeJS'},
-  {title: 'install Angular CLI'},
-  {title: 'create new app'},
+  {title: 'Complete your HackerRank Challenge'},
+  {title: 'Give your mock text for MCA'},
+  {title: 'Create a new application'},
   {title: 'serve app'},
   {title: 'develop app'},
   {title: 'deploy app'},
