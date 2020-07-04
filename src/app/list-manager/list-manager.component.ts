@@ -1,6 +1,6 @@
 import { Component, OnInit } from '@angular/core';
 import { TodoItem } from '../interfaces/todo-item';
-import { TodoListService } from './services/todo-list.service';
+import { TodoListService } from '../services/todo-list.service';
 @Component({
   selector: 'app-list-manager',
   templateUrl: './list-manager.component.html',
